@@ -15,7 +15,7 @@ public class SaludoController {
                     "<body>" +
                         "<style>" +
                             "h1 { font-weight: bold; font-size: 45px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}" +
-                            "body {background-color: rebeccapurple;}" +
+                            "body {background-color: red;}" +
                         "</style>" +
                         "<h1>Hola " + nombre + "!!!</h1>" +
                     "</body>" +
